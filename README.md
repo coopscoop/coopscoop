@@ -1,21 +1,20 @@
-#TODO
+# Hey! 👋
 
-<!-- ## About me
+I'm Cooper, a software developer based out of Canada.
 
-## Engagements
+I like to build whatever I can imagine.
 
-## Contact me
+I've got some experience with most frameworks but I'm most comfortable with:
+- React
+- Typescript
+- Java
+- Tailwind
+- .NET
 
-**coopscoop/coopscoop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I do my best to upload what/when I can.
 
-Here are some ideas to get you started:
+## 🔗 Links
+*(Coming soon)*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Projects
+Pinned repos below ⬇️
