@@ -1,8 +1,8 @@
 # Hey! 👋
 
-I'm Cooper, a software developer based out of Canada.
+I'm Cooper, a junior software developer based out of Canada.
 
-I like to build whatever I can imagine.
+I like to listen to music, and make stuff.
 
 I've got some experience with most frameworks but I'm most comfortable with:
 - React
