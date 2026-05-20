@@ -1,8 +1,6 @@
 # Hey! 👋
 
-I'm Cooper, a junior software developer based out of Canada.
-
-I like to listen to music, and make stuff.
+I'm Cooper, a junior software developer based out of Canada and I like to make stuff.
 
 I've got some experience with most frameworks but I'm most comfortable with:
 - React
@@ -10,8 +8,6 @@ I've got some experience with most frameworks but I'm most comfortable with:
 - Java
 - Tailwind
 - .NET
-
-I do my best to upload what/when I can.
 
 ## 🔗 Links
 *(Coming soon)*
